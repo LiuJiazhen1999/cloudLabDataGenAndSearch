@@ -1,1 +1,3 @@
 # cloudLabDataGenAndSearch
+
+自用，在cloudlab上面生成parquet或orc文件格式的tpcds和tpch数据。
